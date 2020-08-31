@@ -8,6 +8,7 @@
 * JNIEnv Struct offsets spreadsheet | [Link](
 https://docs.google.com/spreadsheets/d/1yqjFaY7mqyVIDs5jNjGLT-G8pUaRATzHWGFUgpdJRq8/edit?usp=sharing)
 * JNI Functions Oracle | [Link](https://docs.oracle.com/javase/7/docs/technotes/guides/jni/spec/functions.html)
+* JNIEnv gdt file for Ghidra |[Link](https://github.com/Ayrx/JNIAnalyzer/blob/master/JNIAnalyzer/data/jni_all.gdt)
 
 
 ## Example Apps
