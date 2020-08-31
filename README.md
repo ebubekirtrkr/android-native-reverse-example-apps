@@ -23,8 +23,9 @@ https://docs.google.com/spreadsheets/d/1yqjFaY7mqyVIDs5jNjGLT-G8pUaRATzHWGFUgpdJ
 
 [Droid Coin Stealer]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/DroidCon_SEC-T_CTF_2019/DroidCoinStealer/DroidCoinStealer.apk
 [Droid Coin Stealer Write-up]: https://anee.me/droidcon-sec-t-ctf-2019-d796be91bb3f
-[Media Code]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/AndroidAppRE/Mediacode.apk
-[Media Code Solution]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/AndroidAppRE/samples/Mediacode.apk
+
+[Media Code]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/AndroidAppRE/samples/Mediacode.apk
+[Media Code Solution]: https://maddiestone.github.io/AndroidAppRE/reversing_native_libs.html#exercise-5---find-the-address-of-the-native-function
 
 [HD Wallpaper]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/AndroidAppRE/samples/HDWallpaper.apk
 [HD Wallpaper Solution]: https://maddiestone.github.io/AndroidAppRE/reversing_native_libs.html#exercise-6---find-and-reverse-the-native-function
