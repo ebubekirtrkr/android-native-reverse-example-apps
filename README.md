@@ -13,13 +13,13 @@ https://docs.google.com/spreadsheets/d/1yqjFaY7mqyVIDs5jNjGLT-G8pUaRATzHWGFUgpdJ
 ## Example Apps
 | App Name    | App Link | Source | Write Up |
 |   :----:    |    :----:   | :----:  |:----: |
-|My Backdoor  | [My Backdoor] | Aperi CTF 2019 | [My Backdoor Write-up] |
+|My Backdoored Gallery  | [My Backdoored Gallery] | Aperi CTF 2019 | [My Backdoored Gallery Write-up] |
 |DroidCoinStealer  | [Droid Coin Stealer] | DroidCon, SEC-T CTF 2019 | [Droid Coin Stealer Write-up] |
 |MediaCode| [Media Code] | AndroidAppRE - Exercise 5 | [Media Code Solution] |
 |HDWallpaper| [HD Wallpaper] | AndroidAppRE -Exercise 6 | [HD Wallpaper Solution] |
 
-[My Backdoor]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/Aperi_CTF_2019/My_Backdoored_Gallery/mygallery.apk
-[My Backdoor Write-up]: https://www.aperikube.fr/docs/aperictf_2019/my_backdoored_gallery/
+[My Backdoored Gallery]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/Aperi_CTF_2019/My_Backdoored_Gallery/mygallery.apk
+[My Backdoored Gallery Write-up]: https://www.aperikube.fr/docs/aperictf_2019/my_backdoored_gallery/
 
 [Droid Coin Stealer]: https://github.com/ebubekirtrkr/android-native-reverse-example-apps/raw/master/DroidCon_SEC-T_CTF_2019/DroidCoinStealer/DroidCoinStealer.apk
 [Droid Coin Stealer Write-up]: https://anee.me/droidcon-sec-t-ctf-2019-d796be91bb3f
