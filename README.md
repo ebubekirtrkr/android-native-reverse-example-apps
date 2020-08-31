@@ -1,6 +1,7 @@
 # Android Native Library Examples
 
 ## Useful Links
+* Mobil Zararlı Analizi - Bölüm 1: Ortamı Kuralım  |TR [Link](https://eybisi.run/Mobil-Zararli-Analizi-Bolum-1-Ortami-Kuralim/)
 * Android App Reverse Engineering 101- Section 5 | [Link](https://maddiestone.github.io/AndroidAppRE/reversing_native_libs.html)
 * Add JNI(C/C++) into your existing Android app | [Link](https://erev0s.com/blog/add-jnicc-your-existing-android-app/)
 * How to hook Android Native methods with Frida (Noob Friendly) | [Link](https://erev0s.com/blog/how-hook-android-native-methods-frida-noob-friendly/)
